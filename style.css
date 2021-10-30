@@ -13,8 +13,12 @@ nav {
 }
 
 article {
-    width: 340px;
+    width: 500px;
     padding: 30px;
     border: 40px;
     margin: 2;
+}
+
+.rickroll {
+    width: 350px;
 }
