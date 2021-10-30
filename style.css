@@ -36,3 +36,6 @@ table, th, td {
 th {
     font-weight: bold;
 }
+#song {
+    font-style: italic;
+}
