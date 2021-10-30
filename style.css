@@ -1,4 +1,4 @@
-h1 {
+h1 { /* type selector */
     color:red;
     font-size: 48px;
     font-weight: bold;
@@ -19,7 +19,7 @@ article {
     padding: 15px;
     border: 15px;
 }
-.author {
+.author { /* class selector */
     font-family: "Georgia", Georgia, 'Times New Roman', Times, serif;
 }
 .rickroll {
@@ -36,6 +36,9 @@ table, th, td {
 th {
     font-weight: bold;
 }
-#song {
+#song { /* ID selector */
     font-style: italic;
+}
+a[target] {
+    background-color: yellow;
 }
