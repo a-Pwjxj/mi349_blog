@@ -24,3 +24,9 @@ article {
 .rickroll {
     width: 350px;
 }
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
