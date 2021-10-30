@@ -1,17 +1,14 @@
 h1 {
-    color:white;
+    color:red;
     font-size: 48px;
 }
-
 body {
     background-color: #23272a;
     color: #ffffff; 
 }
-
 nav {
     font-size: 22px;
 }
-
 section {
     margin: 10px;
     padding: 30px;
@@ -21,7 +18,9 @@ article {
     padding: 15px;
     border: 40px;
 }
-
+.author {
+    font-family: "Georgia", Georgia, 'Times New Roman', Times, serif;
+}
 .rickroll {
     width: 350px;
 }
