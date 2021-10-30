@@ -1,8 +1,8 @@
 h1 {
-    color: gray; 
     font-size: 48px;
 }
 
 body {
     background-color: black;
+    color: gray; 
 }
