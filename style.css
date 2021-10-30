@@ -12,11 +12,14 @@ nav {
     font-size: 22px;
 }
 
-article {
-    width: 500px;
+section {
+    margin: 10px;
     padding: 30px;
+}
+article {
+    width: 800px;
+    padding: 15px;
     border: 40px;
-    margin: 2;
 }
 
 .rickroll {
