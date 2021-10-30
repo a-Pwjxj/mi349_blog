@@ -39,6 +39,6 @@ th {
 #song { /* ID selector */
     font-style: italic;
 }
-a[target] {
+a[target] { /* target selector */
     background-color: yellow;
 }
