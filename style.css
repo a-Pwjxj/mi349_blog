@@ -46,7 +46,7 @@ a[target] { /* target selector */
 nav {
     position: sticky;
 }
-first {
+.first {
     display: flex;
 }
 .first:nth-of-type(1) {
