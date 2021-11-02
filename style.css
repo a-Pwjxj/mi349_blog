@@ -13,7 +13,6 @@ nav {
 section {
     margin: 10px;
     padding: 30px;
-    display: flex;
 }
 article {
     width: 800px;
@@ -25,6 +24,7 @@ article {
 }
 .rickroll {
     width: 350px;
+    display: flex;
 }
 .image {
     display: block;
