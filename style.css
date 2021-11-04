@@ -64,3 +64,8 @@ nav {
 a:visited {
     color: #dd33ff;
 }
+.bloon {
+    position:fixed;
+    top:20px;
+    right:20px;
+}
