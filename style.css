@@ -62,5 +62,5 @@ nav {
 }
 a:visited {
     color: #dd33ff;
-    stroke:black;
+    background-color:black;
 }
