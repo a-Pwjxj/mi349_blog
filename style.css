@@ -56,7 +56,7 @@ nav {
 }
 .first:nth-of-type(2) {
     flex:3;
-    margin: 20px;
+    margin: 5px;
 }
 .first:nth-of-type(3) {
     flex:1;
