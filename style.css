@@ -44,9 +44,6 @@ th {
 #song { /* ID selector */
     font-style: italic;
 }
-a[target] { /* target selector */
-    background-color: yellow;
-}
 nav {
     position: sticky;
 }
