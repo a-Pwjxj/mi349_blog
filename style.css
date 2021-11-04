@@ -9,7 +9,7 @@ body {
 }
 nav {
     font-size: 22px;
-    position: absolute;
+    position: sticky;
     top: 40px;
     left: 40px;
 }
