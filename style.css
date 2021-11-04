@@ -13,6 +13,7 @@ nav {
     top: 40px;
     left: 40px;
     color: white;
+    background-color:black;
 }
 section {
     margin: 10px;
@@ -62,5 +63,4 @@ nav {
 }
 a:visited {
     color: #dd33ff;
-    background-color:black;
 }
