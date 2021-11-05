@@ -65,7 +65,7 @@ a:visited {
     color: #dd33ff;
 }
 .bloon {
-    position:fixed;
+    float:right;
     top:20px;
     right:20px;
 }
