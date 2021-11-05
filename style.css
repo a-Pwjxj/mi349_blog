@@ -39,6 +39,9 @@ article {
 table, th, td {
     border: 1px solid green;
 }
+table {
+    width: 126px;
+}
 th {
     font-weight: bold;
 }
