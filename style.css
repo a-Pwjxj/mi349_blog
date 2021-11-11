@@ -91,3 +91,8 @@ a:visited {
     color:yellow;
 }
  
+@media (max-width: 400px) {
+    p {
+        background-color: red;
+    }
+}
