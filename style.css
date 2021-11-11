@@ -93,6 +93,6 @@ a:visited {
  
 @media (max-width: 400px) {
     p {
-        background-color: red;
+        background-color: blue;
     }
 }
