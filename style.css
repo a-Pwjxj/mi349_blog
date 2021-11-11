@@ -3,10 +3,12 @@ h1 { /* type selector */
     font-size: 48px;
     font-weight: bold;
 }
+
 body {
     background-color: #23272a;
     color: #ffffff; 
 }
+
 nav {
     font-size: 22px;
     position: sticky;
@@ -15,15 +17,18 @@ nav {
     color: white;
     background-color:black;
 }
+
 section {
     margin: 10px;
     padding: 30px;
 }
+
 article {
     width: 800px;
     padding: 15px;
     border: 15px;
 }
+
 .author { /* class selector */
     font-family: "Georgia", Georgia, 'Times New Roman', Times, serif;
 }
@@ -31,45 +36,58 @@ article {
     width: 350px;
     display: flex;
 }
+
 .image {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 table, th, td {
     border: 1px solid green;
 }
+
 table {
     width: 126px;
 }
+
 th {
     font-weight: bold;
 }
+
 #song { /* ID selector */
     font-style: italic;
 }
+
 nav {
     position: sticky;
 }
+
 .first {
     display: flex;
 }
+
 .first:nth-of-type(1) {
     flex:1;
 }
+
 .first:nth-of-type(2) {
     flex:3;
     margin: 5px;
 }
+
 .first:nth-of-type(3) {
     flex:1;
 }
+
 a:visited {
     color: #dd33ff;
 }
+
 .bloon {
     float:right;
     top:20px;
     right:15px;
     color:yellow;
 }
+ 
