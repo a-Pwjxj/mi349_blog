@@ -6,7 +6,8 @@ h1 { /* type selector */
 
 body {
     background-color: #23272a;
-    color: #ffffff; 
+    color: #ffffff;
+    margin: 0;
 }
 
 nav {
