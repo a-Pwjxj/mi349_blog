@@ -98,4 +98,7 @@ a:visited {
     .first {
         display:grid;
     }
+    img {
+        max-width: 350px;
+    }
 }
